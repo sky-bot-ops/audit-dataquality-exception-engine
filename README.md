@@ -27,10 +27,10 @@ This project automates common audit data quality and risk checks, enabling faste
 
 Expected input files contain the following standardized columns:
 
-- 'invoice_id'
-- 'vendor'
-- 'amount'
-- 'posting_date' (YYYY-MM-DD)
+- `invoice_id`
+- `vendor`
+- `amount`
+- `posting_date (YYYY-MM-DD)`
 
 ---
 
