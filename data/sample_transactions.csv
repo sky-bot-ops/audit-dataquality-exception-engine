@@ -1,0 +1,6 @@
+invoice_id,vendor,amount,posting_date
+INV-1001,ACME Supplies,250.00,2025-01-03
+INV-1002,,100.00,2025-01-04
+INV-1003,Globex,-50.00,2025-01-05
+INV-1001,ACME Supplies,250.00,2025-01-03
+INV-1004,Initech,0.00,2025-01-06
